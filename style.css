@@ -1,0 +1,19 @@
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  color:white;
+}
+
+.sub-main{
+  display: flex;
+}
+
+.box-second{
+  margin-right: 5px;
+}
